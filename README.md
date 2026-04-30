@@ -1,2 +1,2 @@
-# Windows-S-r-m-Ay-kla
 Windows Sürüm Ayıkla
+Windows ISO dosyası içinden Windows Sürümlerini rahatça ayıklayabilirsiniz
