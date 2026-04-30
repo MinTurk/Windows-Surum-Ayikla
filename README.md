@@ -8,4 +8,6 @@ Windows ISO dosyası içinden Windows Sürümlerini rahatça ayıklayabilirsiniz
 
 
 Buradan İndirin
+
+
 [Windows Surum  Ayikla.zip](https://github.com/user-attachments/files/27261070/Windows.Surum.Ayikla.zip)
